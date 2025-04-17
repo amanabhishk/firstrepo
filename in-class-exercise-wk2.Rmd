@@ -2,7 +2,12 @@
 title: "J677: Week 2"
 author: 
 date: "2025-01-22"
-output: html_document
+output: 
+  html_document:
+    theme: cerulean
+    toc: yes
+    toc_float:
+      collapsed: true
 ---
 
 ```{r setup, include=FALSE}
