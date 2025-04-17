@@ -5,5 +5,5 @@
 
 - Its a new project.
 - This is not a project.
-
+- This is my work from [week 1](in-week-exercise.wk2.html)
 
